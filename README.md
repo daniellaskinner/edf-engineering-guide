@@ -9,7 +9,7 @@ We hope you enjoy this peek into what its like to work as a software engineer at
 * [Tribes and squads](tribes-and-squads.md)
 * [Benefits](benefits.md)
 * [Learning](learning.md)
-* [Social] (roadmap, xmas social, social slack channels)
+* [Social](social.md)
 * [Technology best practises at EDF] (our stack, automation, dev ops culture, not just code monkeys, problem solvers, architects, dev ops engineers, people build operate test release, testers QA etc.)
 * [Engineering guild] (communities of practise)
 * [How we work](how-we-work.md)
