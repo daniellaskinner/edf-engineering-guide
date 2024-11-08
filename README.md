@@ -8,7 +8,7 @@ We hope you enjoy this peek into what its like to work as a software engineer at
 ## Contents
 * [Tribes and squads](tribes-and-squads.md)
 * [Benefits](benefits.md)
-* [Learning] (training, hackathons, dev day, game days, AWS, courses, linked in learning, conferences)
+* [Learning](learning.md)
 * [Social] (roadmap, xmas social, social slack channels)
 * [Technology best practises at EDF] (our stack, automation, dev ops culture, not just code monkeys, problem solvers, architects, dev ops engineers, people build operate test release, testers QA etc.)
 * [Engineering guild] (communities of practise)
