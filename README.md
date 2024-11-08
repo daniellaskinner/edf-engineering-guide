@@ -13,4 +13,4 @@ We hope you enjoy this peek into what its like to work as a software engineer at
 * [Technology best practises at EDF](technology.md)
 * [Engineering guild](engineering-guild.md)
 * [How we work](how-we-work.md)
-* [Employee led networks] (not specific to eng but relevant, we want to include everyone from different backgrounds and empower those from groups as yet underrepresented in tech. women +, LGBT supporters, young professionals, parents, mental health supporters)
+* [Employee led networks](networks.md)
