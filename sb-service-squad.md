@@ -2,7 +2,7 @@
 
 We reside within the Small Business and Commercial Tribe in the Solutions and Automation area at EDF. We currently have three sibling squads in the Small Business and Commercial Tribe, which are:
 
-- Small Business Service and Retention Team
+- Small Business Aquisition and Retention Team
 - Propositions & Commissions
 - Data Enablement
 
