@@ -12,5 +12,5 @@ We hope you enjoy this peek into what its like to work as a software engineer at
 * [Social] (roadmap, xmas social, social slack channels)
 * [Technology best practises at EDF] (our stack, automation, dev ops culture, not just code monkeys, problem solvers, architects, dev ops engineers, people build operate test release, testers QA etc.)
 * [Engineering guild] (communities of practise)
-* [How we work] (scrum, pair programming, self organising empowered teams)
+* [How we work](how-we-work.md)
 * [Employee led networks] (not specific to eng but relevant, we want to include everyone from different backgrounds and empower those from groups as yet underrepresented in tech. women +, LGBT supporters, young professionals, parents, mental health supporters)
