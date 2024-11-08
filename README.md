@@ -6,7 +6,7 @@ At EDF our mission is to helo Britain reach net zero! A key driver of this is ou
 We hope you enjoy this peek into what its like to work as a software engineer at EDF!
 
 ## Contents
- [Tribes and squads] (tribes-and-squads.md)
+* [Tribes and squads] (tribes-and-squads.md)
  [Benefits] () (holl, paid sick leave in addition to the statutory amount, paid parental leave, excellent pension, flex working, remote, offices, paid travel, meal expenses, working abroad, flex benefits, learning for all scheme, volunteering days, health benefits (flu jab, eye test)
  [Learning] (training, hackathons, dev day, game days, AWS, courses, linked in learning, conferences)
  [Social] (roadmap, xmas social, social slack channels)
