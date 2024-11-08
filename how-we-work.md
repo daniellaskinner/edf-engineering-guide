@@ -1,7 +1,8 @@
 # Ways of working
+(scrum, pair programming, self organising empowered teams)
+
 
 ## Scrum
-
 
 ### How we Point Tickets in Refinement
 
